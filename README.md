@@ -25,3 +25,6 @@ Python,
 OpenCV,
 cvzone library,
 pynput library
+## Demo Video
+
+https://github.com/shruti5692/Hand_Gesture_Based_Gaming/assets/124489133/7d17ef1a-6375-44d4-8411-f114beae0c08
