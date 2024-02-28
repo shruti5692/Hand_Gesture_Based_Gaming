@@ -12,7 +12,7 @@ Hand tracking using OpenCV to detect and analyze hand gestures.
 Simulates keyboard inputs based on detected gestures for game control.
 Provides an immersive and hands-free gaming experience.
 ## How to Use
-
+Run the script.
 
 The camera captures hand movements, and the program interprets specific gestures.
 
